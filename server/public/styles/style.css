@@ -1,0 +1,17 @@
+.index-point{
+    background-color: #efe3e9;
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 05px;
+}
+.selected-index{
+    background-color: #ceeec5;
+    width: 20px;
+    height: 20px;
+}
+.person{
+    display: inline-block;
+    width: 20%;
+}
