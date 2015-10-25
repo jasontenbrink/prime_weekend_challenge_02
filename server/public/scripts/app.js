@@ -1,7 +1,7 @@
 var peopleArray = [];
 var activeIndex = 0;
 var oldActiveIndex = 0;
-var fadeInterval = 2000;
+var fadeInterval = 4000;
 $(document).ready(function(){
     var timer;
     $('#btnNext').on('click',function(){
